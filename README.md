@@ -29,6 +29,7 @@ There's also a fair amount of **vibe coding** going on here lately. Sometimes I 
 - [abul-converter](https://github.com/luigiluna/abul-converter): Spotify link in, lossless files out, for DJing in my living room
 - [obsidian-shell](https://github.com/luigiluna/obsidian-shell): my own Hyprland bar, because every other one had *that one bug*
 - [flea](https://github.com/luigiluna/flea): a fork of Flea that runs without Omarchy
+- [mixxx](https://github.com/luigiluna/mixxx): Mixxx with a beat grid I can actually read when zoomed out, and a split view to prep the next tracks
 
 ### what I'm usually doing
 
