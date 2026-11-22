@@ -1,7 +1,6 @@
 # hey, i'm lubis
 
-backend developer. professional bug creator. occasional bug fixer.
-
+backend developer.
 I spend most of my time building APIs, dealing with distributed systems, and wondering why something that worked yesterday suddenly doesn't work today.
 
 I mostly work with **Java / Spring, C# / .NET, and Go**, building backend services, handling complex workflows, and making systems talk to each other without everything catching fire.
@@ -14,7 +13,7 @@ I've also worked professionally with **Rust**, although there's still plenty for
 - I enjoy self-hosting things that probably didn't need to be self-hosted.
 - I like understanding how things work, especially when they aren't supposed to.
 - Sometimes I play games. Sometimes I spend more time configuring them than actually playing.
-- If something doesn't work on Linux, there's a good chance I'll try to make it work. ([exhibit A](https://github.com/luigiluna/w270-control), [exhibit B](https://github.com/luigiluna/flea))
+- If something doesn't work on Linux, there's a good chance I'll try to make it work. 
 - My code works. The environment is obviously the problem.
 
 ### about this GitHub
